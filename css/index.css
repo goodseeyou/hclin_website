@@ -1,0 +1,87 @@
+body{
+	background-color:black;
+}
+.body_box {
+	background-color:white;
+	margin-top:auto;
+	margin:0 auto;
+	display:block;
+	width:1090px;
+	height:620px;
+	border:1px solid black;
+	text-align:left;
+}
+.title_banner{
+	border:1px solid black;
+	margin:0 auto;
+	margin-top:8px;
+	display:block;
+	width:1063px;
+	height:106px;
+}
+.title_menu_box{
+	border:0px solid black;
+	text-align:center;
+	margin:0 auto;
+	margin-top:5px;
+	display:block;
+	width:956px;
+	height:70px;
+}
+.title_menu{
+	margin:0 auto;
+	margin-left:2px;
+	margin-right:2px;
+	display:inline-block;
+	width:180px;
+	height:99%;
+	border:1px solid black;
+}
+.title_menu:hover{
+	box-shadow:0px 0px 5px #999;
+}
+.middle_section_box{
+	border:0px solid black;
+	margin:0 auto;
+	width:1050px;
+	height:395px;
+	display:block;
+	margin-top:7px;
+}
+.side_bar_box{
+	position:absolute;
+	border:1px solid black;
+	margin-left:15px;
+	margin-right:5px;
+	display:block;
+	width:187px;
+	height:390px;
+
+}
+.side_bar{
+	margin-left:3px;
+}
+.content_box{
+	position:absolute;
+	border:1px solid black;
+	margin:0 auto;
+	display:block;
+	width:820px;
+	height:390px;
+	margin-bottom:-390px;
+	margin-left:213px;
+}
+.content{
+	display:block;
+	height:inherit;
+	margin-left:3px;
+	overflow:auto;
+}
+.foot_box{
+	border:1px solid black;
+	margin:0 auto;
+	margin-top:1px;
+	display:block;
+	width:1063px;
+	height:20px;
+}
